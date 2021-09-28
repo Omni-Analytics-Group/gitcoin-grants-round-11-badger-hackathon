@@ -5,7 +5,7 @@ library(dygraphs)
 library(lubridate)
 library(xts)
 
-dashboardPage(skin = "yellow",
+dashboardPage(skin = "yellow", title = "Badger Boost Analysis",
 	dashboardHeader(title = tags$div(align="left", tags$img(src='badger.png'), "Badger Analysis")),
 
     dashboardSidebar(
