@@ -1,2 +1,2 @@
-# gitcoin-grants-round11-badger-hackathon
-Our submission for the Gitcoin Grants Round 11 Hackathon
+# badger_boost
+Badger Boost Analysis and Shiny Dashboard
